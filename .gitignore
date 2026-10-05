@@ -17,3 +17,18 @@ next-env.d.ts
 # OS / editor
 .DS_Store
 Thumbs.db
+
+# business documents: never commit (repo is public)
+*.pdf
+*.PDF
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.key
+*.numbers
+*.pages
+*.csv
+/private/
